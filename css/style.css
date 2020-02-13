@@ -1147,6 +1147,9 @@ h5,
 .slide-one-item .owl-nav .owl-next {
   right: 20px;
 }
+.intro-text {
+  font-weight: bold;
+}
 
 .intro-engage > div {
   padding: 50px;
